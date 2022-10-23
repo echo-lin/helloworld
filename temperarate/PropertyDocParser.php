@@ -1,10 +1,4 @@
 <?php
-/**
- * @author    吴宇
- * @principal 陈龙宝
- * @date      2021/11/17
- * @time      14:42
- */
 
 namespace app\framework\base\fillable;
 
