@@ -1,10 +1,4 @@
 <?php
-/**
- * @author    林跃
- * @principal 冯家浩
- * @date      2021/12/22
- * @time      16:56
- */
 
 namespace app\module\purchase\dto\logic\purchaseOrder;
 
